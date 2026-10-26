@@ -1,0 +1,86 @@
+[
+  {
+    "id": "f_1792994708709",
+    "donorName": "Naveen Biryani Point",
+    "donorPhone": "9820112233",
+    "foodName": "Chicken Biryani & Raita",
+    "quantity": 40,
+    "quantityKg": 14,
+    "location": "Bandra West, Mumbai",
+    "foodType": "non_veg",
+    "pickupDeadline": "2026-10-26T18:05:08.709Z",
+    "notes": "",
+    "status": "available",
+    "createdAt": "2026-10-26T06:05:08.709Z"
+  },
+  {
+    "id": "f_1",
+    "donorName": "Chef Vikram (Taj West End)",
+    "donorPhone": "9845012345",
+    "foodName": "Paneer Makhani & Vegetable Pulao",
+    "quantity": 50,
+    "quantityKg": 18,
+    "location": "Race Course Rd, High Grounds, Bengaluru",
+    "foodType": "veg",
+    "pickupDeadline": "2026-10-26T11:47:28.053Z",
+    "notes": "Fresh buffet surplus packed in sealed food-grade containers.",
+    "status": "claimed",
+    "createdAt": "2026-10-26T03:47:28.053Z",
+    "claimedBy": {
+      "name": "Sister Anita",
+      "type": "NGO",
+      "orgName": "Robin Hood Army Bengaluru",
+      "phone": "9811223344",
+      "claimedAt": "2026-10-26T05:49:21.420Z"
+    }
+  },
+  {
+    "id": "f_2",
+    "donorName": "Bawarchi Grand Catering",
+    "donorPhone": "9880198765",
+    "foodName": "Hyderabadi Dum Vegetable Biryani",
+    "quantity": 70,
+    "quantityKg": 28,
+    "location": "100ft Road, 4th Block, Koramangala, Bengaluru",
+    "foodType": "veg",
+    "pickupDeadline": "2026-10-26T13:47:28.053Z",
+    "notes": "Catering surplus prepared in pure ghee. Kept warm in thermoware boxes.",
+    "status": "available",
+    "createdAt": "2026-10-26T02:47:28.053Z"
+  },
+  {
+    "id": "f_3",
+    "donorName": "The Daily Loaf Bakery",
+    "donorPhone": "9741234567",
+    "foodName": "Whole Wheat Bread Loaves & Pav Buns",
+    "quantity": 45,
+    "quantityKg": 14,
+    "location": "12th Main, HAL 2nd Stage, Indiranagar, Bengaluru",
+    "foodType": "veg",
+    "pickupDeadline": "2026-10-27T05:47:28.053Z",
+    "notes": "Day-end fresh unsold loaves. Excellent for shelter breakfast.",
+    "status": "available",
+    "createdAt": "2026-10-26T01:47:28.053Z"
+  },
+  {
+    "id": "f_4",
+    "donorName": "Royal Orchid Banquets",
+    "donorPhone": "9448123456",
+    "foodName": "South Indian Sambar, Rice & Curd Rice",
+    "quantity": 80,
+    "quantityKg": 30,
+    "location": "Old Airport Road, Kodihalli, Bengaluru",
+    "foodType": "veg",
+    "pickupDeadline": "2026-10-26T03:47:28.053Z",
+    "notes": "Distributed to evening shelter camp.",
+    "status": "claimed",
+    "createdAt": "2026-10-25T21:47:28.053Z",
+    "claimedBy": {
+      "name": "Sister Anita",
+      "type": "NGO",
+      "orgName": "Robin Hood Army Foundation",
+      "phone": "9811223344",
+      "claimedAt": "2026-10-26T01:47:28.053Z"
+    }
+  }
+]

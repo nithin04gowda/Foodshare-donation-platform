@@ -1,0 +1,6 @@
+{
+  "name": "FoodShare India - Surplus Food Waste Donation Platform",
+  "description": "India-first food waste donation platform connecting verified donors, food recipients, and registered NGOs with real-time nearby discovery, secure verification, safe pickup reservation transactions, and impact recognition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
